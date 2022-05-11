@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433695911901",
+    "firebase_url": "https://medcard-53a73-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "medcard-53a73",
+    "storage_bucket": "medcard-53a73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433695911901:android:9a279f1b78d39652e25034",
+        "android_client_info": {
+          "package_name": "com.easy_life.med"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433695911901-m0id43vgtdpg0m0ju25kbmaj8n7n56g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easy_life.med",
+            "certificate_hash": "9c8b6806aca763bde9634bbb52e7f79e9370d485"
+          }
+        },
+        {
+          "client_id": "433695911901-rij8shdv324tupc3pgq7ej9s62t192hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHP51ZCzBQngmnQVoHHXwiCpvBQvRzH9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433695911901-rij8shdv324tupc3pgq7ej9s62t192hp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

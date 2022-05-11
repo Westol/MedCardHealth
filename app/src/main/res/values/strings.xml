@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Медкарта здоровья</string>
+    <string name="ad_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad_inter_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- Menu Drawer Strings -->
+    <string name="ad_main">Главная</string>
+    <string name="ad_info">Информация</string>
+    <string name="ad_my_ads">Мои документы</string>
+    <string name="ad_my_favs">Избранное</string>
+    <string name="def">Общие документы</string>
+    <string name="ad_cat">Категории</string>
+    <string name="ad_cat2">Аккаунт</string>
+    <string name="ac_sign_up">Регистрация</string>
+    <string name="ac_sign_in">Вход</string>
+    <string name="ac_sign_out">Выход</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="not_reg">Войдите или зарегистрируйтесь</string>
+    <!-- Sign Dialog -->
+    <string name="email_reset_password_was_send">Ссылка на восстановление пароля отпралена на Ваш эл.адрес</string>
+    <string name="dialog_reset_email_message">Для восстановления пароля укажите Ваш эл.адрес</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="sign_up_action">Зарегистрироваться</string>
+    <string name="sign_in_action">Войти</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="sign_up_error">Не удалось зарегистрироваться</string>
+    <string name="sign_in_error">Не удалось войти</string>
+    <string name="send_verification_error">Не удалось отправить email для подтверждения</string>
+    <string name="send_verification_done">На Вашу почту была отправлена ссылка для подтверждения Вашего аккаунта, пожалуйста, подтвердите Ваш аккаунт</string>
+    <!-- Sign Dialog -->
+    <string name="link_done">Эл.адрес успешно подключен к Google аккаунту</string>
+    <string name="enter_to_g">У Вас уже есть аккаунт с этим эл.адресом, войдите по нему</string>
+    <string name="quest">Гость</string>
+    <!-- Categories -->
+    <string name="ad_analyzes">Анализы</string>
+    <string name="ad_doctors">Врачи</string>
+    <string name="ad_reference">Справки</string>
+    <string name="ad_medicine">Лекарства</string>
+    <string name="ad_medbook">Санкнижка</string>
+    <string name="ad_documents">Документы</string>
+    <string name="ad_surveys">Обследования</string>
+    <string name="ad_vaccinations">Прививки</string>
+    <string name="ad_additionally">Дополнительно</string>
+    <!-- Edit Activity -->
+    <string name="title">Заголовок</string>
+    <string name="title_hint">Название документа</string>
+    <string name="category">Категория</string>
+    <string name="category_hint">Название категории</string>
+    <string name="сlinic">Клиника</string>
+    <string name="clinic_name">Название клиники</string>
+    <string name="direction">Направление</string>
+    <string name="direction_hint">Выберите медицинское направление</string>
+    <string name="document">Документ</string>
+    <string name="document_hint">Выберите тип документа</string>
+    <string name="description">Описание</string>
+    <string name="description_hint">Описание документа</string>
+    <string name="data">Дата</string>
+    <string name="data_hint">Введите дату</string>
+    <string name="select_country">Выберите страну</string>
+    <string name="select_city">Выберите город</string>
+    <string name="send">Готово</string>
+    <string name="send_text">Отправка</string>
+    <string name="publish">Готово</string>
+    <string name="filter">Применить фильтр</string>
+    <string name="clear_filter">Очистить фильтр</string>
+    <string name="publish_time">Время публикации</string>
+    <string name="thanks_for_buy">Спасибо за покупку!</string>
+    <string name="error_buy">Не удалось реализовать покупку</string>
+    <string name="remove_ads">Удалить рекламу</string>
+    <!-- Description Activity -->
+    <string name="title_desc">Заголовок:</string>
+    <string name="сlinic_desc">Клиника:</string>
+    <string name="direction_desc">Направление:</string>
+    <string name="document_desc">Документ:</string>
+    <string name="description_desc">Описание:</string>
+    <string name="data_desc">Дата:</string>
+    <string name="send_text_desc"> C отправкой:</string>
+
+
+</resources>

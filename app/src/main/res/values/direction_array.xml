@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="direction">
+        <item>Аллергология</item>
+        <item>Анатомия</item>
+        <item>Ангиология</item>
+        <item>Беременность</item>
+        <item>Биохимия</item>
+        <item>Венерология</item>
+        <item>Гастроэнтерология</item>
+        <item>Гематология</item>
+        <item>Генетика</item>
+        <item>Гепатология</item>
+        <item>Геронтология</item>
+        <item>Гигиена</item>
+        <item>Гинекология</item>
+        <item>Гистология</item>
+        <item>Дерматология</item>
+        <item>Диетология</item>
+        <item>Иммунология</item>
+        <item>Инфекционные заболевания </item>
+        <item>Кардиология</item>
+        <item>Комбустиология</item>
+        <item>Косметология</item>
+        <item>Маммология</item>
+        <item>Наркология</item>
+        <item>Неврология</item>
+        <item>Нейробиология</item>
+        <item>Неонатология</item>
+        <item>Нефрология</item>
+        <item>Онкология</item>
+        <item>Ортопедия</item>
+        <item>Оториноларингология</item>
+        <item>Офтальмология</item>
+        <item>Паразитология</item>
+        <item>Патология </item>
+        <item>Педиатрия</item>
+        <item>Пластическая хирургия</item>
+        <item>Проктология</item>
+        <item>Психиатрия</item>
+        <item>Пульмонология</item>
+        <item>Стоматология</item>
+        <item>Терапия</item>
+        <item>Токсикология</item>
+        <item>Урология</item>
+        <item>Фармакология</item>
+        <item>Физиология</item>
+        <item>Хирургия</item>
+        <item>Цитология</item>
+        <item>Эмбриология </item>
+        <item>Эндокринология</item>
+        <item>Эпидемиология </item>
+    </string-array>
+
+</resources>

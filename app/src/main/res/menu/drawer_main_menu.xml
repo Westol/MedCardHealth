@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn= "navigation_view">
+
+    <item android:title="@string/ad_main" android:id="@+id/mainCat">
+
+        <menu>
+            <item
+                android:title="@string/ad_my_ads"
+                android:id="@+id/id_my_ads"
+                />
+            <item
+                android:title="@string/ad_my_favs"
+                android:id="@+id/id_my_favs"
+                />
+        </menu>
+    </item>
+
+    <item android:title="@string/ad_cat" android:id="@+id/cat">
+
+        <menu>
+            <item
+                android:title="@string/ad_analyzes"
+                android:id="@+id/id_analyzes"
+                />
+            <item
+                android:title="@string/ad_doctors"
+                android:id="@+id/id_doctors"
+                />
+            <item
+                android:title="@string/ad_reference"
+                android:id="@+id/id_reference"
+                />
+            <item
+                android:title="@string/ad_medicine"
+                android:id="@+id/id_medicine"
+                />
+            <item
+                android:title="@string/ad_medbook"
+                android:id="@+id/id_medbook"
+                />
+            <item
+                android:title="@string/ad_documents"
+                android:id="@+id/id_documents"
+                />
+            <item
+                android:title="@string/ad_surveys"
+                android:id="@+id/id_surveys"
+                />
+            <item
+                android:title="@string/ad_vaccinations"
+                android:id="@+id/id_vaccinations"
+                />
+            <item
+                android:title="@string/ad_additionally"
+                android:id="@+id/id_additionally"
+                />
+        </menu>
+    </item>
+
+    <item android:title="@string/ad_cat2" android:id = "@+id/accCat">
+
+        <menu>
+            <item
+                android:title="@string/remove_ads"
+                android:id="@+id/id_remove_ads"
+                />
+
+            <item
+                android:title="@string/ac_sign_up"
+                android:id="@+id/id_sign_up"
+                />
+
+            <item
+                android:title="@string/ac_sign_in"
+                android:id="@+id/id_sign_in"
+                />
+
+            <item
+                android:title="@string/ac_sign_out"
+                android:id="@+id/id_sign_out"
+                />
+
+        </menu>
+
+    </item>
+
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="category">
+
+        <item>Анализы</item>
+        <item>Врачи</item>
+        <item>Справки</item>
+        <item>Лекарства</item>
+        <item>Санкнижка</item>
+        <item>Документы</item>
+        <item>Обследования</item>
+        <item>Прививки</item>
+        <item>Дополнительно</item>
+
+    </string-array>
+
+</resources>

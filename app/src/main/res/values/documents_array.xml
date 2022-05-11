@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="documents">
+
+        <item>Анализ</item>
+        <item>Выписка</item>
+        <item>Направление</item>
+        <item>Обследование</item>
+        <item>Осмотр</item>
+        <item>Рецепт</item>
+        <item>Справка</item>
+        <item>Заключение</item>
+        <item>Прочее</item>
+
+    </string-array>
+
+</resources>
