@@ -31,11 +31,11 @@
 * Kotlin
 
 ## Скриншоты
-<img src="Screenshot_20220617_170941.png" width="440" height="810"/>     <img src="Screenshot_20220617_170952.png" width="440" height="810"/>      
+<img src="Screenshot_20220617_170952.png" width="440" height="810"/> <img src="Screenshot_20220617_170941.png" width="440" height="810"/>      
 <img src="Screenshot_20220617_174421.png" width="440" height="810"/>     
 <img src="Screenshot_20220617_171005.png" width="440" height="810"/>     <img src="Screenshot_20220617_171015.png" width="440" height="810"/>
 <img src="Screenshot_20220617_171030.png" width="440" height="810"/>     <img src="Screenshot_20220617_171050.png" width="440" height="810"/>
-<img src="Screenshot_20220617_171110.png" width="440" height="810"/>     <img src="Screenshot_20220617_171119.png" width="440" height="810"/>
+<img src="Screenshot_20220617_171119.png" width="440" height="810"/>
 <img src="Screenshot_20220617_171324.png" width="440" height="810"/>     <img src="Screenshot_20220617_171431.png" width="440" height="810"/>
 <img src="Screenshot_20220617_171544.png" width="440" height="810"/>     <img src="Screenshot_20220617_171612.png" width="440" height="810"/>
 <img src="Screenshot_20220617_171726.png" width="440" height="810"/>     <img src="Screenshot_20220617_171738.png" width="440" height="810"/>
